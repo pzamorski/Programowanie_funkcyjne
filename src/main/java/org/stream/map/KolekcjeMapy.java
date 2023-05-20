@@ -1,4 +1,4 @@
-package org.stream;
+package org.stream.map;
 
 import org.materialy.Student;
 import org.materialy.StudentFactory;
